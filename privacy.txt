@@ -1,0 +1,45 @@
+# Privacy Policy for Thai Swimmer Ranking
+
+    Effective Date: May 20, 2026
+
+    Thai Swimmer Ranking ("we," "our," or "the App") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you
+  use our mobile application.
+
+    ---
+
+    ## 1. Information We Collect
+    We do not collect any personally identifiable information (PII).
+    *   No Accounts: The App does not require you to create an account, provide an email address, or log in.
+    *   Local Storage: All data regarding your "Team" or "Followed Swimmers" is stored locally on your device using a private SQLite database. We do not have
+  access to this data.
+
+    ## 2. Third-Party Services
+    The App uses third-party services that may collect information used to identify you:
+
+    ### A. Google AdMob (Advertising)
+    We use Google AdMob to display advertisements to free users. AdMob may collect and use data such as your device's advertising ID to provide personalized
+  ads.
+    *   Google Privacy & Terms: https://policies.google.com/privacy
+
+    ### B. Google Play Billing (Subscriptions)
+    We use the standard Google Play Billing system to manage Pro subscriptions. Payments are handled securely by the Google Play Store. We do not store or
+  have access to your credit card information.
+    *   Google Play Terms of Service: https://play.google.com/intl/en-US_us/about/play-terms/
+
+    ### C. TAA Public Data
+    The App fetches public swimming rankings and results from the official Thailand Aquatics Association (TAA) website. We do not transmit any of your
+  personal data to TAA.
+
+    ## 3. Data Security
+    Since all your team data is stored locally on your device, the security of that data depends on the security of your device. We recommend using device-
+  level encryption and screen locks.
+
+    ## 4. Children’s Privacy
+    Our App is designed for swimmers of all ages, including children. Because we do not collect any personal information, accounts, or contact details, we
+  are compliant with standard child privacy regulations (COPPA).
+
+    ## 5. Changes to This Policy
+    We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
+
+    ## 6. Contact Us
+    If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: narinster@gmail.com
